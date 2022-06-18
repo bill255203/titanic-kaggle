@@ -7,5 +7,5 @@ titanic.py is the code for testing
 
 train.csv and test.csv includes training data and testing data
 
-geder submission includes all the predicted results
+gender submission includes all the predicted results
 which 1 is alive and 0 is dead 
